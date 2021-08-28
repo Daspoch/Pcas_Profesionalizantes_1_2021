@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626379874 source:c:\users\user\desktop\tp final\tp final\tp final estudio 54\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
